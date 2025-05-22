@@ -20,6 +20,7 @@ const MIN_HEIGHT = 40;
 const initialPositions = [
   { id: "card-1", x: 0, y: 0, width: 200, height: 100 },
   { id: "card-2", x: 100, y: 100, width: 200, height: 100 },
+  { id: "card-3", x: 200, y: 200, width: 200, height: 100 },
 ];
 
 const DropAreaDnd: React.FC = () => {

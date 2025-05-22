@@ -57,7 +57,7 @@ const DraggableCardDnd: React.FC<DraggableCardDndProps> = ({
     top: transform ? y + transform.y : y,
     width,
     height,
-    background: "green",
+    background: "purple",
     color: "#fff",
     border: "2px solid red",
     borderRadius: 8,
